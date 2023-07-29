@@ -1,4 +1,4 @@
-const number = '';  //填入邀请码或者通过$argumeent传人
+const number = '88845197';  //填入邀请码或者通过$argumeent传人
 
 
 const http = (request, method = "post") => {
